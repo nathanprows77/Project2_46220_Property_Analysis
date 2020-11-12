@@ -25,7 +25,7 @@ Dashboard Page - update the page via property code
 Inspiration and Final Design Sketch: We have included images for inspiration as well as a very minimal sketch of what the final dashboard will look like in the images folder within this GitHub repository. 
 
 Group Tasks: 
-    - Nathan - Find latitude and longitude for zip codes and powerpoint
+    - Nathan - Find latitude and longitude for addresses, add to database and create powerpoint. Finalize html styling.
     - Tim - Making SQL database and hosting API 
     - Katie - Pick the Javascript library and map color coded by neighborhood
     - Helena - HTML/CSS and bar chart for property class codes
